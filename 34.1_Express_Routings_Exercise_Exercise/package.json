@@ -1,0 +1,14 @@
+{
+  "name": "34.1_express_routings_exercise_exercise",
+  "version": "1.0.0",
+  "description": "34.1_Express_Routings_Exercise_Exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andres Sanchez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
